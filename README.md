@@ -1,2 +1,4 @@
 # palatro
-this is dialog palatro testing
+this is dialog palatro test
+
+i cant inistiale it from cmd
