@@ -5,3 +5,4 @@ these are other changes
 
 
 today date is 10 dec
+today is monday
